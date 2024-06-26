@@ -1,0 +1,15 @@
+{
+  "name": "nodeexpressdockerfile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mazlum Unay - c0885585",
+  "license": "ISC",
+  "description": "Creating doocker image using docker file - DevOps - Assignment 3 ",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
