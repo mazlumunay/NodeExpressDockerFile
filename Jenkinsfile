@@ -8,7 +8,7 @@ pipeline {
   stages {
     stage('Cloning Git') {
       steps {
-        git([url: 'https://github.com/mazlumunay/NodeExpressDockerFile', branch: 'main'])
+        git([url: 'https://github.com/mazlumunay/NodeExpressDockerFile.git', branch: 'main'])
  
       }
     }
